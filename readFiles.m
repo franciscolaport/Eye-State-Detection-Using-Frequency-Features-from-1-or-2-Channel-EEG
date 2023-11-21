@@ -4,7 +4,7 @@ function [open, closed] = readFiles(sujeto, device, filt)
     
     % Variables generales de la funcion.
     
-    task_duration = 58;
+    task_duration = 60;
     num_tasks = 10;
     experiment_duration = task_duration*num_tasks;
     channels = [2,3];
