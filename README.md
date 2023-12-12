@@ -4,4 +4,4 @@ The corresponding dataset can be found at: https://zenodo.org/records/10168535.
 
 Run 'main.m' file to generate results.
 
-[1] Laport, F., Dapena, A., Castro, P. M., Iglesias, D. I., & Vazquez-Araujo, F. J. (2023). Eye State Detection Using Frequency Features from 1 or 2-Channel EEG. International Journal of Neural Systems, 2350062-2350062.
+[1] Laport F, Dapena A, Castro PM, Iglesias DI, Vazquez-Araujo FJ. Eye State Detection Using Frequency Features from 1 or 2-Channel EEG. Int J Neural Syst. 2023 Dec;33(12):2350062. doi: 10.1142/S0129065723500624. Epub 2023 Oct 12. PMID: 37822240.
